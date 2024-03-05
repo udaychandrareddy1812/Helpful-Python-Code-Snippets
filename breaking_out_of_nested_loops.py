@@ -1,4 +1,4 @@
-# this python code snippet break out from two for loops at once
+# this python code snippet breaks out from two for loops at once
 
 found = False
 
